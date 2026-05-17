@@ -1,5 +1,44 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/chrissoria/chrissoria.r-universe.dev
 	branch = HEAD
+[submodule "cat.ademic"]
+	path = cat.ademic
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.ademic
+[submodule "cat.cog"]
+	path = cat.cog
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.cog
+[submodule "cat.llm"]
+	path = cat.llm
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.llm
+[submodule "cat.pol"]
+	path = cat.pol
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.pol
+[submodule "cat.stack"]
+	path = cat.stack
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.stack
+[submodule "cat.survey"]
+	path = cat.survey
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.survey
+[submodule "cat.vader"]
+	path = cat.vader
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.vader
+[submodule "cat.web"]
+	path = cat.web
+	url = https://github.com/chrissoria/cat-llm
+	branch = main
+	subdir = r-package/cat.web
